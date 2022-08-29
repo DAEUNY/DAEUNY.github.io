@@ -1,5 +1,5 @@
 ---
-title: "TEST"
+title: "Front-end"
 layout: archive
 permalink: categories/front-end
 author_profile: true

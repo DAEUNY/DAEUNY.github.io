@@ -1,5 +1,5 @@
 ---
-title: "TEST"
+title: "TEST2"
 layout: archive
 permalink: categories/test2
 author_profile: true
