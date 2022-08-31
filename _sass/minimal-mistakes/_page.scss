@@ -144,6 +144,7 @@ body {
     padding-bottom: 0.1rem;
     font-size: 0.8em;
     background: $code-background-color;
+    color:rgb(255, 103, 103) ;                        // 인라인 코드 블록 글자 색 변경?
     border-radius: $border-radius;
 
     &::before,
