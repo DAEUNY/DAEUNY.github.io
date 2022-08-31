@@ -9,7 +9,7 @@ $text-color: #293b77 !default;
 $muted-text-color: $text-color !default;
 $primary-color: #aabde9  !default;           // 이 부분이 강조색이다. 우상단 메뉴, 인용문 등의 강조색.       // 목록 등
 $border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #aabde9 !default;
+$footer-background-color: #e1eaff !default;
 // $link-color: #ff0000 !default;              // 이 부분이 링크의 색깔을 결정한다.
 $link-color: #aabde9;                                                                            
 $masthead-link-color: $text-color !default;
@@ -24,7 +24,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 // 전체 배경색 (navbar 제외)
 .initial-content{
-   background-color: #f7fafd;
+   background-color: #fbfdff;
    color: #aabde9;        
 }
 
