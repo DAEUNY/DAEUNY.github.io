@@ -10,16 +10,22 @@ html {
   background-color: $background-color;
   font-size: 16px;
 
+  // 본문
   @include breakpoint($medium) {
-    font-size: 18px;
+    // font-size: 18px;
+    font-size: 14px;
   }
 
+  // 헤더
   @include breakpoint($large) {
-    font-size: 20px;
+    // font-size: 20px;
+    font-size: 16px;
   }
-
+  // 제목
   @include breakpoint($x-large) {
-    font-size: 22px;
+    // font-size: 22px;
+    font-size: 18px;
+    font-family: EarlyFontDiary;
   }
 
   -webkit-text-size-adjust: 100%;
