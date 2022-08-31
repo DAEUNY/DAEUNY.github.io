@@ -25,7 +25,7 @@ html {
   @include breakpoint($x-large) {
     // font-size: 22px;
     font-size: 18px;
-    font-family: EarlyFontDiary;
+    // font-family: EarlyFontDiary;     -> 여기서 글씨체 변경 안됨 
   }
 
   -webkit-text-size-adjust: 100%;
