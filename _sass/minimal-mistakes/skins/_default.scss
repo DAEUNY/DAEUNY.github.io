@@ -5,14 +5,15 @@
 // Intentionally left blank
 
 /* Colors */
-$text-color: #000 !default;
+$text-color: #293b77 !default;
 $muted-text-color: $text-color !default;
-$primary-color: #ed5a66  !default;           // 이 부분이 강조색이다. 우상단 메뉴, 인용문 등의 강조색.       // 목록, 이전 글, 다음 글, 목록 링크, 코드블록 등
+$primary-color: #aabde9  !default;           // 이 부분이 강조색이다. 우상단 메뉴, 인용문 등의 강조색.       // 목록 등
 $border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #000 !default;
+$footer-background-color: #aabde9 !default;
 // $link-color: #ff0000 !default;              // 이 부분이 링크의 색깔을 결정한다.
 $link-color: #aabde9;                                                                            
 $masthead-link-color: $text-color !default;
+// $masthead-link-color:#293b77 !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
@@ -40,5 +41,5 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 }
 
 .sidebar{
-   color: #7c97d8;            // 사이드바 
+   color: #5973b1;            // 사이드바 
 }
