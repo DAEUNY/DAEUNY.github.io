@@ -120,7 +120,7 @@ body {
   p {
     margin: 0 0 $indent-var;
 
-    line-height: 2; // 가독성을 위해 줄 간격 추가
+    // line-height: 2; // 가독성을 위해 줄 간격 추가 -> 변화 X
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -146,7 +146,7 @@ body {
     padding-bottom: 0.1rem;
     font-size: 0.8em;
     background: $code-background-color;
-    color:rgb(255, 103, 103) ;                        // 인라인 코드 블록 글자 색 변경?
+    color:rgb(255, 125, 125) ;                        // 인라인 코드 블록 글자 색 변경!
     border-radius: $border-radius;
 
     &::before,
