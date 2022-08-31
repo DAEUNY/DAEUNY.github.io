@@ -11,7 +11,7 @@ $primary-color: #aabde9  !default;           // 이 부분이 강조색이다. �
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
 // $link-color: #ff0000 !default;              // 이 부분이 링크의 색깔을 결정한다.
-$link-color: #aabde9                                                                            
+$link-color: #aabde9;                                                                            
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
