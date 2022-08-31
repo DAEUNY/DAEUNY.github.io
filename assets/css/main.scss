@@ -16,3 +16,31 @@ search: false
   font-weight: normal;
   font-style: normal;
 }
+
+// 제목용 폰트 
+// @font-face {
+//   font-family: 'YES24';
+//   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_13@1.0/YES24.woff') format('woff');
+//   font-weight: normal;
+//   font-style: normal;
+// }
+// @font-face {
+//   font-family: 'KyoboHand';
+//   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/KyoboHand.woff') format('woff');
+//   font-weight: normal;
+//   font-style: normal;
+// }
+
+// 본문용 폰트
+@font-face {
+  font-family: 'NanumBarunpen';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'KOMACON';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/KOMACON.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

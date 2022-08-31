@@ -14,9 +14,13 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: "Coming Soon", Georgia, Times, serif !default;
-$sans-serif: "Coming Soon", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: -apple-system, BlinkMacSystemFont, "NanumBarunpen", "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
+// 제목 용 추가 폰트 
+$NanumBarunpen: -apple-system, BlinkMacSystemFont, "NanumBarunpen", "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
@@ -63,7 +67,7 @@ $lighter-gray: mix(#fff, $gray, 90%) !default;
 
 $background-color: #fff !default;
 // $code-background-color: #fafafa !default;
-$code-background-color: #fbeaea !default;                            // 인라인 코드 블록 배경색??
+$code-background-color: #fff6f6 !default;                            // 인라인 코드 블록 배경색!!
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 20%) !default;
