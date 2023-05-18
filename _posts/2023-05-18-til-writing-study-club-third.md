@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - TIL
 tags:
-  - [Blog, TIL, WritingClub, ]
+  - [TIL, WritingClub, PM]
 
 toc: true
 toc_sticky: true
