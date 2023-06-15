@@ -90,7 +90,8 @@ last_modified_at: 2023-05-18
 
 ### 2 * 2 FEATURES 배치 예시
 ---
-![image](https://postfiles.pstatic.net/MjAyMzA2MDFfNTEg/MDAxNjg1NjI1MjU5ODU5._NLR4kZ2LFAdMZCdEU4fPQiswozqwRHnq3a9PEC0Xkkg.FEHtOcDUpJJbOS38fuVy38-dnVIA0dtRVGcIxozbPDkg.PNG.xlzhfhqls_/image.png?type=w773)
+![](https://blogfiles.pstatic.net/MjAyMzA1MjJfODQg/MDAxNjg0NzExNzUzMTk3.15Ayq9dQvtcRpcT6ZTbm4q7ocy6KuaXH95ZyeEbccr8g.eH9d30u1bNBrTGW-CdRBcApj4lPFmEhwWPGCOFdq-kEg.PNG.xlzhfhqls_/image.png)
+
 
 - 사용자 가치가 높은지에 대한 판단 : `어피니티 매핑`에서 도출한 `인사이트` 바탕으로 결정
 
