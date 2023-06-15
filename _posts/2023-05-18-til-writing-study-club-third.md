@@ -14,7 +14,7 @@ date: 2023-05-18
 last_modified_at: 2023-05-18
 ---
 
-# 
+
 
 <aside>
 ☀️ 기능 우선순위 : 제한된 리소스를 통해 최상의 결과를 얻기 위해 매우 중요함.
@@ -26,7 +26,8 @@ last_modified_at: 2023-05-18
 - 예산, 인력 부족 & 타임라인 촉박.
 - 너무 많은 피쳐가 들어가면 핵심가치가 흐려짐 → 사용자들도 혼란을 느끼기 쉬움. (아무리 좋은 서비스라도..)
     
-    → 사용자가 원하는 것은 몇 가지 핵심 기능. 모든 경우를 대응할 수 있게 기능을 붙이면 사용자들이 쓰지 않는 기능이 많은 피쳐 크립이 될 수 있음.
+    → 사용자가 원하는 것은 몇 가지 핵심 기능. <br>
+    모든 경우를 대응할 수 있게 기능을 붙이면 사용자들이 쓰지 않는 기능이 많은 피쳐 크립이 될 수 있음.
     
 <p align="center">
 <img src="https://postfiles.pstatic.net/MjAyMzA2MDFfMTA4/MDAxNjg1NjI0OTA5NDgw.Y6I3k1mXjwftdv6XOoBA52TedJEY-uSvsgsAFSV5tQkg.y4c8iZUr4BoIDb2N7Ebezh_9bMS6xefyrdYKf_p1jQ0g.PNG.xlzhfhqls_/image.png?type=w773" width="250" />
@@ -89,7 +90,7 @@ last_modified_at: 2023-05-18
 
 ### 2 * 2 FEATURES 배치 예시
 ---
-![](https://postfiles.pstatic.net/MjAyMzA2MDFfNTEg/MDAxNjg1NjI1MjU5ODU5._NLR4kZ2LFAdMZCdEU4fPQiswozqwRHnq3a9PEC0Xkkg.FEHtOcDUpJJbOS38fuVy38-dnVIA0dtRVGcIxozbPDkg.PNG.xlzhfhqls_/image.png?type=w773)
+![image](https://postfiles.pstatic.net/MjAyMzA2MDFfNTEg/MDAxNjg1NjI1MjU5ODU5._NLR4kZ2LFAdMZCdEU4fPQiswozqwRHnq3a9PEC0Xkkg.FEHtOcDUpJJbOS38fuVy38-dnVIA0dtRVGcIxozbPDkg.PNG.xlzhfhqls_/image.png?type=w773)
 
 - 사용자 가치가 높은지에 대한 판단 : `어피니티 매핑`에서 도출한 `인사이트` 바탕으로 결정
 
