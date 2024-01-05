@@ -68,10 +68,10 @@ return BigInt(number) % 9n
 나머지가 2로 나와야 하는데 5로 나옴.. <br>
 숫자가 커지면 Number로 바꾼 숫자는 뒷자리에 0으로 대체되더라..!<br>
 도대체 왜 fail이 뜨는지 console을 찍어 봤더니…<br>
+>
 ```jsx
 // 틀린 풀이
 return Number(number) % 9
-
 // console.log(parseInt(number))
 // "78720646226947352489"         입력값
 // 78720646226947360000           출력값
