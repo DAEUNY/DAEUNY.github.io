@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - TIL
 tags:
-  - [TIL]
+  - [TIL, PROGRAMMERS-수학]
 
 toc: true
 toc_sticky: true
